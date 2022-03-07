@@ -1,0 +1,7 @@
+{
+    ":attribute deve contenere almeno una lettera.": ":attribute deve contenere almeno una lettera.",
+    ":attribute deve contenere almeno un numero.": ":attribute deve contenere almeno un numero.",
+    ":attribute deve contenere almeno un simbolo.": ":attribute deve contenere almeno un simbolo.",
+    ":attribute deve contenere almeno una lettera maiuscola e una minuscola.": ":attribute deve contenere almeno una lettera maiuscola e una minuscola.",
+    "La :attribute inserita è apparsa in una fuga di dati. Si prega di scegliere un'altra :attribute.": "La :attribute inserita è apparsa in una fuga di dati. Si prega di scegliere un'altra :attribute."
+}
