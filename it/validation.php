@@ -43,7 +43,7 @@ return [
     'digits_between' => ':attribute deve essere tra :min e :max cifre.',
     'dimensions' => ':attribute ha dimensioni dell\'immagine non valide.',
     'distinct' => ':attribute ha un valore doppio.',
-    'email' => ':attribute deve essere un\'indirizzo email valido.',
+    'email' => 'Il campo :attribute deve essere un\'indirizzo email valido.',
     'ends_with' => ':attribute deve finire con uno dei seguenti valori: :values.',
     'enum' => ':attribute selezionato non è valido.',
     'exists' => ':attribute selezionato non è valido.',
